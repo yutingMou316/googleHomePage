@@ -1,0 +1,68 @@
+body{
+  text-align: center;
+}
+a{
+  color:#5f6368;
+}
+
+/* logo section */
+.googleLogo{
+  width:25%;
+}
+.mainlogo{
+  text-align: center;
+  padding-top: 109px;
+}
+
+/* searchBar section */
+.wrap{
+  text-align: center;
+  margin:2.5rem auto;
+  width:40%;
+  line-height: 2.2rem;
+  position:relative;
+}
+.searchBar{
+  width:100%;
+  border:solid 1px grey;
+  border-radius: 20px;
+}
+.searchLogo{
+  position:absolute;
+  right:1rem;
+  border-radius: 100%;
+  border:none;
+  background-color: transparent;
+}
+/* main Button section */
+.mainButton{
+  margin:0 1rem;
+  background-color: #f2f2f2;
+}
+.btn{
+  width:13%;
+  padding:0.5rem;
+}
+/* footer section */
+footer{
+  position: absolute;
+  bottom:0;
+  width:100%;
+  padding-top:1rem;
+  padding-bottom: 2rem;
+  text-align: center;
+  background-color: #f2f2f2;
+}
+
+span,a{
+  padding:0 1rem 0 1rem;
+}
+
+.leftside{
+  position:absolute;
+  left:1rem;
+}
+.rightside{
+  position:absolute;
+  right:1rem;
+}
